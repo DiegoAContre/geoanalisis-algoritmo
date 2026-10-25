@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "qgis-pyscript": {
+      "source": "kentemman-gmd/qgis-script-skill",
+      "sourceType": "github",
+      "skillPath": "skills/qgis-pyscript/SKILL.md",
+      "computedHash": "e1c5197bda26c686f45d1279c98ee387a8abeb7b0d460970e9332a785cee0274"
+    },
+    "sql-optimization": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/sql-optimization/SKILL.md",
+      "computedHash": "47c930907f25d67454ac8c2d155785eae3dce72242960d0c0e9ebf2ced9cd231"
+    }
+  }
+}
